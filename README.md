@@ -1,7 +1,5 @@
 <!-- Banner Image -->
 
-[![Expo](/style/header.png)](https://expo.io)
-
 <p align="center">
  
    <a aria-label="SDK version" href="https://www.npmjs.com/package/expo" target="_blank">
